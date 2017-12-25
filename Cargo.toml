@@ -1,0 +1,9 @@
+[package]
+name = "monte_carlo"
+version = "0.1.0"
+authors = ["MonadicDavidHuang <mynameistoyoko@gmail.com>"]
+
+[dependencies]
+gnuplot = "0.0.24"
+rand="0.3"
+nalgebra = "0.13"
