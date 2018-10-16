@@ -225,7 +225,7 @@ fn main() {
     let n_dim = 2;
     let mean: f64 = 0.0;
     let std_d: f64 = 500.0;
-    let sample_num: i32 = 20000;
+    let sample_num: i32 = 200000;
 
     // Metro-Polis Hasting method sampling from multi-dim gaussian
     // parameter for target dist
