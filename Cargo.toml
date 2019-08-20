@@ -1,5 +1,5 @@
 [package]
-name = "monte_carlo"
+name = "mcmc"
 version = "0.1.0"
 authors = ["MonadicDavidHuang <mynameistoyoko@gmail.com>"]
 

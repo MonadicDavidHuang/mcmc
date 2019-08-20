@@ -1,2 +1,2 @@
-# DQN
-Sampling high dimensional probability distribution using Metro police hasting sampler.
+# mcmc
+Several implementation of mcmc by rust.
